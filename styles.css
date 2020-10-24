@@ -1,0 +1,20 @@
+body {
+background-color: #f1f6f9;
+color: #394867;
+}
+
+a,h1,h3{
+color: #14274e;
+}
+
+img{
+  border-radius: 50%;
+}
+
+hr {
+border-style: none;
+border-color: #14274e;
+border-top-style: dotted;
+width: 5%;
+border-width: 10px;
+}
